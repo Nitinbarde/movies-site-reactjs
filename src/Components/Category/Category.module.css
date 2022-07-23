@@ -1,0 +1,55 @@
+/* .categoriesHeading{
+    font-family: 'Anek Bangla', sans-serif;
+    font-size: 53px;
+    font-weight: 500;
+   
+
+} */
+.post{
+    margin: 50px;
+    /* margin: 40px 50px;
+    margin-top: 0; */
+    font-weight: 500;
+    font-size: 30px;
+    color: #000;
+}
+#all{
+  background-color: #0084ff;
+  color: white;
+}
+.filter{
+    margin: 40px 50px;
+    margin-top: 0;
+    font-weight: 500;
+    color: #000;
+}
+.iconFilter{
+    color: #3580c1;
+}
+.mid{
+    margin-left: 10%;
+}
+.categoryContainer{
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding-top: 16px;
+    display: block;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+.categories{
+    padding: 6px 14px;
+    width: auto;
+    color: #0084ff;
+    border: 1px solid #0084ff;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: sans-serif;
+}
+.categories:hover{
+    background-color: antiquewhite;
+}
+

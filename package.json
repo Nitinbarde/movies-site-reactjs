@@ -1,7 +1,7 @@
 {
   "name": "edyodawebapp",
   "version": "0.1.0",
-  "homepage": "https://Nitinbarde.github.io/react-edyoda-app",
+  "homepage": "https://Nitinbarde.github.io/jhi-react",
   "private": true,
   "dependencies": {
     "@emotion/styled": "^11.9.3",
